@@ -4,7 +4,7 @@
 gradlew
 gradlew.bat
 gradle/*
-
+settings.gradle
 ### STS ###
 .apt_generated
 .classpath
